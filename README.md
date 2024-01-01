@@ -16,7 +16,6 @@ This Java application is designed to help travel agencies maintain travel packag
 
 ```bash
 git clone https://github.com/ParthAhuja143/nymble.git
-cd travel-agency
 ```
 
 ### 2. Run the Main file
